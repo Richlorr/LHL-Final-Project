@@ -1,2 +1,2 @@
 # LHL-Final-Project
-Using deep neural nets to turn generated 2d images of faces into 3d mesh models ready to deploy in Unreal engine
+Using generated 2d faces to create 3d models ready to deploy in unreal engine for game/cgi development
