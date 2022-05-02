@@ -1,5 +1,5 @@
 # LHL-Final-Project
-Using generated 2d faces to create 3d models ready to deploy in unreal engine for game/cgi development.
+Using generated 2d faces to create 3d models ready to deploy in unreal engine for game/cgi development.\
 Collab notebook for 3d face reconstruction is here: https://colab.research.google.com/drive/1LegDlY_PKTKYPmDzINH33Dg2RY4mg-Ri
 
 
