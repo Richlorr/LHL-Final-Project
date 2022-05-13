@@ -9,7 +9,7 @@ for StyleGAN2 pretrained model:\
 https://github.com/AmarSaini/Epoching_StyleGan2_Setup   For custom latent traversal gifs.\
 [align_face.py](https://gist.github.com/lzhbrian/bde87ab23b499dd02ba4f588258f57d5)\
 [stylegan2directions](https://twitter.com/robertluxemburg/status/1207087801344372736)   Latent directions for traversing latent space.\
-[stylegan2encoder](https://github.com/rolux/stylegan2encoder) Used to create images for later model, better than baseline projector\
+[stylegan2encoder](https://github.com/rolux/stylegan2encoder) Used to create images for later model, better than baseline projector
 
 
 \
